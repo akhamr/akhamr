@@ -2,7 +2,7 @@
 
 <hr />
 
-I'm a self-taught passionate Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
+I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
 ### About me
 
