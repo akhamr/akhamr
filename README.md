@@ -6,11 +6,11 @@ I'm a self-taught passionate Full-stack Developer & Data Enthusiast from Indones
 
 ### About me
 
-- 📚 Generasi Gigih 2.0 by [YABB](https://www.anakbangsabisa.org/) & [GoTo](https://www.gotocompany.com/) as Data Analyst Track Participant.
+- 📚 Generasi Gigih 2.0 by [YABB](https://www.anakbangsabisa.org/) & [GoTo](https://www.gotocompany.com/) as Data Analyst Track Participant,
 
-- ❤️ I love build my own website with TailwindCSS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"> & Laravel <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">.
+- ❤️ I love build my own website with TailwindCSS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"> & Laravel <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">,
 
-- 💬 Ask me about anything [here](https://github.com/akhamr/akhamr/issues).
+- 💬 Ask me about anything [here](https://github.com/akhamr/akhamr/issues),
 
 - 📜 Also, you can read my [portofolio](https://akhamr.codes) & [resume](.).
 
