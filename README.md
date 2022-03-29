@@ -19,9 +19,9 @@ I'm a self-taught passionate Full-stack Developer & Data Enthusiast from Indones
 
 ### Contact me
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="./gmail.svg" />
+<a href="mailto:saikonomia@gmail.com">
+  <img align="left" alt="Khamid Arrazaq | Gmail" width="40px" src="./gmail.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="./instagram.svg" />
+<a href="https://instagram.com/akhamr_">
+  <img align="left" alt="Anurag Hazra | Twitter" width="40px" src="./instagram.svg" />
 </a>
