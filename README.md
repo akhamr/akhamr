@@ -4,7 +4,7 @@
 
 I'm a self-taught passionate Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
-### Hi there 👋
+### About me
 
 - 📚 Generasi Gigih 2.0 by [YABB](https://www.anakbangsabisa.org/) & [GoTo](https://www.gotocompany.com/) as Data Analyst Track Participant
 
@@ -16,3 +16,9 @@ I'm a self-taught passionate Full-stack Developer & Data Enthusiast from Indones
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akhamr&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Akhamr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhamr&layout=compact&theme=dracula&hide_border=true" /></a> |
 | - | - |
+
+### Contact me
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />
+</a>
