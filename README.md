@@ -20,5 +20,8 @@ I'm a self-taught passionate Full-stack Developer & Data Enthusiast from Indones
 ### Contact me
 
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="./gmail.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="./instagram.svg" />
 </a>
