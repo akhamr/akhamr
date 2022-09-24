@@ -14,7 +14,7 @@ I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
 - 📜 Also, you can read my [portofolio](https://akhamr.codes) & [resume](.).
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://akhamr-readme-stat.vercel.app/api?username=akhamr&show_icons=true&include_all_commits=true&theme=onedark&hide=contribs&custom_title=Akhamr%27s%20Github%20Stats alt="Akhamr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://akhamr-readme-stat.vercel.app/api/top-langs/?username=akhamr&layout=compact&theme=onedark" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://akhamr-readme-stat.vercel.app/api?username=akhamr&show_icons=true&include_all_commits=true&theme=onedark&hide=contribs&custom_title=Akhamr%27s%20Github%20Stats" alt="Akhamr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://akhamr-readme-stat.vercel.app/api/top-langs/?username=akhamr&layout=compact&theme=onedark" /></a> |
 | - | - |
 
 ### Contact me
