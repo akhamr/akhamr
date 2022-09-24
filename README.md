@@ -8,7 +8,7 @@ I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
 - 📚 Generasi Gigih 2.0 by [YABB](https://www.anakbangsabisa.org/) & [GoTo](https://www.gotocompany.com/) as Data Analyst Track Participant.
 
-- ❤️ I love build my own website with TailwindCSS <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"> & Laravel <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">.
+- 💫 Still trying to figure out how Gatsby <img height="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg">  works.
 
 - 💬 Ask me about anything [here](https://github.com/akhamr/akhamr/issues).
 
