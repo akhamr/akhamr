@@ -6,7 +6,7 @@ I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
 ### About me
 
-- 📚 Generasi Gigih 2.0 by [YABB](https://www.anakbangsabisa.org/) & [GoTo](https://www.gotocompany.com/) as Data Analyst Track Participant.
+- 📚 A highly motivated and passionate fresh graduate of Mathematics at [Sebelas Maret University](https://math.mipa.uns.ac.id/)
 
 - :brain: Certified Junior Web Programmer by [LSP TIK](https://lsptik.or.id/skema/detail/118-Junior-Web-Programmer.html) & Google Data Analyst by [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 
