@@ -12,7 +12,7 @@ I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
 - 💬 Ask me about anything [here](mailto:hello@akhamr.me).
 
-- 📜 Also, you can read my [portfolio](https://akhamr.me) & [resume](https://akhamr.me/resume.pdf).
+- 📜 Also, you can read my [portfolio](https://akhamr.me) & [resume](https://drive.google.com/file/d/1j57WTKkaJFEucTQEhl7qb5ZH2zPcwsT9/view?usp=sharing).
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://akhamr-readme-stat.vercel.app/api?username=akhamr&show_icons=true&include_all_commits=true&theme=onedark&hide=contribs&custom_title=Akhamr%27s%20Github%20Stats" alt="Akhamr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://akhamr-readme-stat.vercel.app/api/top-langs/?username=akhamr&layout=compact&theme=onedark" /></a> |
 | - | - |
