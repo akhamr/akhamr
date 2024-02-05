@@ -6,9 +6,9 @@ I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 
 ### About me
 
-- 📚 A highly motivated and passionate fresh graduate of Mathematics at [Sebelas Maret University](https://math.mipa.uns.ac.id/)
+- 📚 A highly motivated and passionate fresh graduate of Mathematics at [Sebelas Maret University](https://math.mipa.uns.ac.id/).
 
-- :brain: Professionally Certified Junior Web Programmer by [LSP TIK](https://drive.google.com/file/d/1DNrLNM4tA7oyFbjm4C3nZWX8oP9v_KMe/view?usp=sharing) & Google Data Analyst by [Coursera](https://drive.google.com/file/d/1ayT2Tz9OCEM-yY6rwFWhKyqts_Mo7LzM/view?usp=sharing)
+- :brain: Professionally Certified Junior Web Programmer by [LSP TIK](https://drive.google.com/file/d/1DNrLNM4tA7oyFbjm4C3nZWX8oP9v_KMe/view?usp=sharing) & Google Data Analyst by [Coursera](https://drive.google.com/file/d/1ayT2Tz9OCEM-yY6rwFWhKyqts_Mo7LzM/view?usp=sharing).
 
 - 💬 Ask me about anything [here](mailto:hello@akhamr.me).
 
