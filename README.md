@@ -15,6 +15,6 @@ I'm a self-taught Full-stack Developer & Data Enthusiast from Indonesia 🇮🇩
 - 📜 Also, you can read my [portfolio](https://akhamr.me) & [resume](https://drive.google.com/file/d/1j57WTKkaJFEucTQEhl7qb5ZH2zPcwsT9/view?usp=sharing).
 
 <div>
-  <img height=200 width=450 align=left src="https://akhamr-stats.vercel.app/api?username=akhamr&theme=onedark&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img height=200 width=375 align-right src="https://akhamr-stats.vercel.app/api/top-langs/?username=akhamr&layout=compact&theme=onedark&hide_border=true" />
+  <img height=180 width=450 align=left src="https://akhamr-stats.vercel.app/api?username=akhamr&theme=onedark&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img height=180 width=375 align-right src="https://akhamr-stats.vercel.app/api/top-langs/?username=akhamr&layout=compact&theme=onedark&hide_border=true" />
 </div>
